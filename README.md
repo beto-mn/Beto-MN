@@ -135,8 +135,6 @@ If you are looking for someone who can take your project to the next level... **
 
 </div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C499%20hrs%201%20min-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.55%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -151,48 +149,6 @@ If you are looking for someone who can take your project to the next level... **
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                303 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-🌆 Daytime                803 commits         ██████████░░░░░░░░░░░░░░░   39.52 % 
-🌃 Evening                649 commits         ████████░░░░░░░░░░░░░░░░░   31.94 % 
-🌙 Night                  277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   295 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Tuesday                  330 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Wednesday                255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Thursday                 334 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Friday                   312 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Saturday                 271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Sunday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-TypeScript               28 mins             ██████████████████████░░░   86.50 % 
-YAML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-
-🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-payout-gateway           26 mins             ████████████████████░░░░░   78.84 % 
-beto-mn-platform         4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-pay-out-gateway-retorna-d2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-
-💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -210,7 +166,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/beto-mn/beto-mn/master/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 00:33:41 UTC
+ Last Updated on 03/01/2026 00:32:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
