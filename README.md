@@ -135,6 +135,8 @@ If you are looking for someone who can take your project to the next level... **
 
 </div>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C500%20hrs%2049%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.55%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -149,6 +151,45 @@ If you are looking for someone who can take your project to the next level... **
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                303 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+🌆 Daytime                803 commits         ██████████░░░░░░░░░░░░░░░   39.52 % 
+🌃 Evening                649 commits         ████████░░░░░░░░░░░░░░░░░   31.94 % 
+🌙 Night                  277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   295 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Tuesday                  330 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Wednesday                255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Thursday                 334 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Friday                   312 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Saturday                 271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Sunday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Mexico_City
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -166,7 +207,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/beto-mn/beto-mn/master/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 00:37:51 UTC
+ Last Updated on 05/01/2026 00:37:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
