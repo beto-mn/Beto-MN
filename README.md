@@ -94,21 +94,6 @@ If you are looking for someone who can take your project to the next level... **
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🚀 **Payment Gateway System** | Scalable payment processing solution with multiple provider integrations | TypeScript, AWS, Terraform, DynamoDB |
-| 💳 **Pay-Out Gateway** | Secure payout management system with automated processing | Node.js, PostgreSQL, Docker, Kubernetes |
-| 🔧 **Design Patterns Catalog** | Comprehensive implementation of software design patterns | TypeScript, Jest, Clean Architecture |
-| 📱 **Full-Stack Web Applications** | Modern responsive web applications with real-time features | Vue.js, Nuxt.js, Express, MongoDB |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
