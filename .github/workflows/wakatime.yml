@@ -21,3 +21,27 @@ jobs:
           SHOW_EDITORS: 'True'
           SHOW_LANGUAGE: 'True'
           SHOW_OS: 'True'
+
+  fix-waka-newline:
+    name: Fix newline after waka section
+    needs: update-readme
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+      - name: Pull latest changes from waka action
+        run: git pull
+      - name: Insert blank line after waka start marker
+        run: |
+          python3 -c "
+          import re
+          content = open('README.md').read()
+          fixed = re.sub(r'(<!--START_SECTION:waka-->)\n(!\[)', r'\1\n\n\2', content)
+          open('README.md', 'w').write(fixed)
+          "
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet README.md || (git add README.md && git commit -m "fix: add blank line after waka section marker" && git push)
