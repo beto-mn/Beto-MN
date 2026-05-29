@@ -120,16 +120,13 @@ If you are looking for someone who can take your project to the next level... **
 
 </div>
 <!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C865%20hrs%2042%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.01%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 142.3 kB Used in GitHub's Storage 
+> 📦 142.4 kB Used in GitHub's Storage 
  > 
-> 🏆 994 Contributions in the Year 2026
+> 🏆 1,017 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -137,55 +134,6 @@ If you are looking for someone who can take your project to the next level... **
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1940 commits        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-🌆 Daytime                5138 commits        █████████████░░░░░░░░░░░░   53.86 % 
-🌃 Evening                2022 commits        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-🌙 Night                  439 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1393 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Tuesday                  2513 commits        ███████░░░░░░░░░░░░░░░░░░   26.34 % 
-Wednesday                1609 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Thursday                 2055 commits        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-Friday                   954 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Saturday                 489 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Sunday                   526 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-TypeScript               18 hrs 34 mins      ███████████░░░░░░░░░░░░░░   44.91 % 
-Markdown                 15 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   37.03 % 
-Other                    2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-JSON                     1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-SQL                      1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-
-🔥 Editors: 
-VS Code                  26 hrs 20 mins      ████████████████░░░░░░░░░   63.68 % 
-Claude Code              13 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   33.19 % 
-DataGrip                 1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-
-🐱‍💻 Projects: 
-gloss-ops                13 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   32.42 % 
-sumo-ayce                11 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-payout-gateway           5 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Knowledge                4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-pay-out-gateway-providers3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-
-💻 Operating System: 
-Mac                      41 hrs 21 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -203,7 +151,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/beto-mn/beto-mn/master/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 01:02:08 UTC
+ Last Updated on 29/05/2026 01:10:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
