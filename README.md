@@ -120,14 +120,13 @@ If you are looking for someone who can take your project to the next level... **
 
 </div>
 <!--START_SECTION:waka-->
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.39%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.44%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 362.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,519 Contributions in the Year 2026
+> 🏆 1,549 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -138,21 +137,21 @@ If you are looking for someone who can take your project to the next level... **
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4743 commits        ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
-🌆 Daytime                11923 commits       ██████████████░░░░░░░░░░░   56.78 % 
-🌃 Evening                3765 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+🌞 Morning                4759 commits        ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+🌆 Daytime                11932 commits       ██████████████░░░░░░░░░░░   56.67 % 
+🌃 Evening                3795 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
 🌙 Night                  568 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2943 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Tuesday                  5876 commits        ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-Wednesday                3751 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Thursday                 4898 commits        ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-Friday                   1961 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Saturday                 764 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Sunday                   806 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Monday                   2943 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Tuesday                  5876 commits        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Wednesday                3764 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Thursday                 4928 commits        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Friday                   1973 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Saturday                 764 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Sunday                   806 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 ```
 
 
@@ -162,36 +161,36 @@ Sunday                   806 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               12 hrs 14 mins      ███████████░░░░░░░░░░░░░░   42.48 % 
-Markdown                 7 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-JSON                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Other                    1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-YAML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Markdown                 9 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.31 % 
+TypeScript               9 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.76 % 
+JSON                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Other                    2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+YAML                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 19 mins      █████████████████████░░░░   84.46 % 
-VS Code                  4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-DataGrip                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Claude Code              23 hrs 57 mins      █████████████████████░░░░   85.44 % 
+VS Code                  3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+DataGrip                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🐱‍💻 Projects: 
-sumo-ayce                11 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   39.63 % 
-db                       6 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-pay-in-gateway-providers 3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Knowledge                2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-pay-out-gateway-providers1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+sumo-ayce                6 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+db                       6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+pay-in-gateway-providers 4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+talani-platform          3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Knowledge                2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 
 💻 Operating System: 
-Mac                      28 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               22 repos            ███████████░░░░░░░░░░░░░░   44.90 % 
-Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-HCL                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+TypeScript               22 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
+Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HCL                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
@@ -201,7 +200,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/beto-mn/beto-mn/master/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 00:49:16 UTC
+ Last Updated on 25/07/2026 00:52:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
