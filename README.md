@@ -120,6 +120,7 @@ If you are looking for someone who can take your project to the next level... **
 
 </div>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C095%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.44%20million%20lines%20of%20code-blue?style=flat)
 
@@ -162,26 +163,25 @@ Sunday                   806 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Markdown                 9 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.31 % 
-TypeScript               9 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.76 % 
-JSON                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Other                    2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-YAML                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Markdown                 9 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   34.61 % 
+TypeScript               9 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.48 % 
+JSON                     3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Other                    2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+YAML                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 57 mins      █████████████████████░░░░   85.44 % 
-VS Code                  3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-DataGrip                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Claude Code              22 hrs 57 mins      █████████████████████░░░░   82.48 % 
+VS Code                  4 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
 
 🐱‍💻 Projects: 
-sumo-ayce                6 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-db                       6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-pay-in-gateway-providers 4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-talani-platform          3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Knowledge                2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+db                       6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+pay-in-gateway-providers 5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+sumo-ayce                4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+talani-platform          3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Knowledge                1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 💻 Operating System: 
-Mac                      28 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      27 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -201,7 +201,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/beto-mn/beto-mn/master/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 00:52:05 UTC
+ Last Updated on 26/07/2026 00:55:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
