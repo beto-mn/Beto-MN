@@ -120,8 +120,7 @@ If you are looking for someone who can take your project to the next level... **
 
 </div>
 <!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C095%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C098%20hrs%201%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.44%20million%20lines%20of%20code-blue?style=flat)
 
@@ -129,7 +128,7 @@ If you are looking for someone who can take your project to the next level... **
 
 > 📦 362.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,549 Contributions in the Year 2026
+> 🏆 1,559 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -140,21 +139,21 @@ If you are looking for someone who can take your project to the next level... **
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4759 commits        ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-🌆 Daytime                11932 commits       ██████████████░░░░░░░░░░░   56.67 % 
-🌃 Evening                3795 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+🌞 Morning                4768 commits        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+🌆 Daytime                11933 commits       ██████████████░░░░░░░░░░░   56.65 % 
+🌃 Evening                3795 commits        █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
 🌙 Night                  568 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2943 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Tuesday                  5876 commits        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Wednesday                3764 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Thursday                 4928 commits        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-Friday                   1973 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Monday                   2943 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Tuesday                  5876 commits        ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+Wednesday                3764 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+Thursday                 4928 commits        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Friday                   1982 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 Saturday                 764 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Sunday                   806 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Sunday                   807 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 ```
 
 
@@ -164,25 +163,25 @@ Sunday                   806 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Markdown                 9 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   34.61 % 
-TypeScript               9 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.48 % 
-JSON                     3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Other                    2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-YAML                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+TypeScript               9 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.10 % 
+Markdown                 8 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   32.72 % 
+JSON                     3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Other                    2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+YAML                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 57 mins      █████████████████████░░░░   82.48 % 
-VS Code                  4 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Claude Code              22 hrs 6 mins       ████████████████████░░░░░   81.97 % 
+VS Code                  4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
 
 🐱‍💻 Projects: 
-db                       6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-pay-in-gateway-providers 5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-sumo-ayce                4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-talani-platform          3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Knowledge                1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+db                       6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+pay-in-gateway-providers 5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+sumo-ayce                3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+talani-platform          3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+talani-worker            1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 
 💻 Operating System: 
-Mac                      27 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -202,7 +201,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/beto-mn/beto-mn/master/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 00:55:27 UTC
+ Last Updated on 27/07/2026 00:55:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
