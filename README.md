@@ -120,18 +120,17 @@ If you are looking for someone who can take your project to the next level... **
 
 </div>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C078%20hrs%2017%20mins-blue?style=flat)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C071%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-404%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-398%20hrs%2030%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.77%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.83%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 363.3 kB Used in GitHub's Storage 
+> 📦 363.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,640 Contributions in the Year 2026
+> 🏆 1,495 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -142,21 +141,21 @@ If you are looking for someone who can take your project to the next level... **
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7520 commits        ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-🌆 Daytime                15435 commits       ██████████████░░░░░░░░░░░   55.32 % 
-🌃 Evening                4337 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-🌙 Night                  607 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+🌞 Morning                7787 commits        ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+🌆 Daytime                16021 commits       ██████████████░░░░░░░░░░░   55.35 % 
+🌃 Evening                4498 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+🌙 Night                  637 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   4528 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Tuesday                  7753 commits        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-Wednesday                5102 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Thursday                 5945 commits        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-Friday                   2788 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Saturday                 872 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Sunday                   911 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Monday                   4737 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Tuesday                  8099 commits        ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+Wednesday                5283 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Thursday                 6096 commits        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Friday                   2889 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Saturday                 902 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Sunday                   937 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 ```
 
 
@@ -166,60 +165,60 @@ Sunday                   911 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               8 hrs 40 mins       ████████████░░░░░░░░░░░░░   46.61 % 
-Markdown                 5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-SQL                      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Other                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+TypeScript               9 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   40.69 % 
+Markdown                 7 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   31.04 % 
+SQL                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+JSON                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 2 mins       ███████████████████░░░░░░   76.48 % 
-VS Code                  3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-DataGrip                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Codex Exec               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Claude Code              18 hrs 49 mins      ████████████████████░░░░░   78.10 % 
+VS Code                  4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+DataGrip                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Codex Exec               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🐱‍💻 Projects: 
-sumo-ayce                6 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.04 % 
-pay-out-gateway-providers4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-payout-gateway           4 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-pay-out-gateway-payment-p1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Retorna_DB               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+sumo-ayce                9 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   38.99 % 
+pay-out-gateway-providers6 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+payout-gateway           3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+talani-bootstrap         1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+pay-out-gateway-payment-p1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 💻 Operating System: 
-Mac                      18 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 5 mins (87.57%)
+⏱ AI Coding Time: 21 hrs 38 mins (89.85%)
 
-✍️ 10,356 lines written by AI, 76 lines written by hand (99.27% AI-written)
+✍️ 14,005 lines written by AI, 93 lines written by hand (99.34% AI-written)
 
-🔤 7,482,329 Input Tokens, 1,229,659 Output Tokens
+🔤 10,137,188 Input Tokens, 1,679,725 Output Tokens
 
-💵 $118.33 Estimated AI Cost This Week
+💵 $150.01 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 229 AI Prompts
+🧠 17 AI Sessions, 312 AI Prompts
 
-Sonnet                   10,783 lines        █████████████████████████   100.00 % 
+Sonnet                   14,531 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.27% of written lines came from AI
-📄 Detailed Prompter — average 1,404 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 1.04% of changed lines were hand-edited
+🤖 AI-Driven — 99.34% of written lines came from AI
+📄 Detailed Prompter — average 1,373 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 0.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               24 repos            ████████████░░░░░░░░░░░░░   46.15 % 
-Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-HCL                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+TypeScript               24 repos            ███████████░░░░░░░░░░░░░░   45.28 % 
+Shell                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+HCL                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 ```
 
 
@@ -229,7 +228,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/beto-mn/beto-mn/master/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 01:45:23 UTC
+ Last Updated on 27/08/2026 08:36:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
