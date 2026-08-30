@@ -120,16 +120,15 @@ If you are looking for someone who can take your project to the next level... **
 
 </div>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C096%20hrs%2048%20mins-blue?style=flat)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C095%20hrs%2012%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-420%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-422%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.02%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 363.5 kB Used in GitHub's Storage 
+> 📦 363.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1,509 Contributions in the Year 2026
  > 
@@ -166,50 +165,50 @@ Sunday                   951 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               9 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   38.38 % 
-Markdown                 9 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   37.28 % 
-YAML                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Terraform                54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+TypeScript               9 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   39.17 % 
+Markdown                 9 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.02 % 
+YAML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Terraform                54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 22 mins      ████████████████████░░░░░   79.01 % 
-VS Code                  4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-DataGrip                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Codex Exec               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Claude Code              20 hrs 45 mins      █████████████████████░░░░   82.20 % 
+VS Code                  3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+DataGrip                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Codex Exec               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-pay-out-gateway-providers8 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.01 % 
-sumo-ayce                6 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-talani-bootstrap         4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-payout-gateway           3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-muush.dev                1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+pay-out-gateway-providers9 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.86 % 
+sumo-ayce                6 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+talani-bootstrap         4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+payout-gateway           2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+muush.dev                1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 
 💻 Operating System: 
-Mac                      25 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 39 mins (91.69%)
+⏱ AI Coding Time: 23 hrs 54 mins (94.69%)
 
-✍️ 23,145 lines written by AI, 83 lines written by hand (99.64% AI-written)
+✍️ 22,667 lines written by AI, 83 lines written by hand (99.64% AI-written)
 
-🔤 13,129,551 Input Tokens, 2,295,544 Output Tokens
+🔤 13,555,429 Input Tokens, 2,254,070 Output Tokens
 
-💵 $206.69 Estimated AI Cost This Week
+💵 $211.55 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 441 AI Prompts
+🧠 28 AI Sessions, 460 AI Prompts
 
-Sonnet                   23,993 lines        █████████████████████████   100.00 % 
+Sonnet                   23,500 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.64% of written lines came from AI
-📚 Verbose Prompter — average 1,517 characters per prompt
+📄 Detailed Prompter — average 1,333 characters per prompt
 🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 0.64% of changed lines were hand-edited
+🚀 High AI Trust — 0.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -229,7 +228,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/beto-mn/beto-mn/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 06:35:22 UTC
+ Last Updated on 30/08/2026 04:49:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
