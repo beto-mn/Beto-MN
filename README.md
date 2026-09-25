@@ -120,6 +120,7 @@ If you are looking for someone who can take your project to the next level... **
 
 </div>
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C176%20hrs%2052%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-497%20hrs%2041%20mins-blue?style=flat)
