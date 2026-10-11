@@ -120,10 +120,9 @@ If you are looking for someone who can take your project to the next level... **
 
 </div>
 <!--START_SECTION:waka-->
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C192%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-513%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-513%20hrs%2057%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.32%20million%20lines%20of%20code-blue?style=flat)
 
@@ -166,49 +165,49 @@ Sunday                   1275 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.05 % 
-Other                    1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Markdown                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-HTML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+TypeScript               1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+Other                    1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Markdown                 1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+HTML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 20 mins       ████████████████████░░░░░   80.26 % 
-VS Code                  1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-DataGrip                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Claude Code              4 hrs 15 mins       ████████████████████░░░░░   81.46 % 
+VS Code                  53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+DataGrip                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🐱‍💻 Projects: 
-muush-foundation         2 hrs               ████████░░░░░░░░░░░░░░░░░   30.13 % 
-muush.dev                1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-pay-out-gateway-payment-p1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-sumo-ayce                50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-payout-gateway           26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+muush-foundation         2 hrs               ██████████░░░░░░░░░░░░░░░   38.41 % 
+muush.dev                1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   31.02 % 
+sumo-ayce                50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+pay-out-gateway-payment-p30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Retorna_DB               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 💻 Operating System: 
-Mac                      6 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 55 mins (88.83%)
+⏱ AI Coding Time: 4 hrs 42 mins (90.21%)
 
-✍️ 6,887 lines written by AI, 44 lines written by hand (99.37% AI-written)
+✍️ 6,645 lines written by AI, 40 lines written by hand (99.4% AI-written)
 
-🔤 7,200,035 Input Tokens, 573,454 Output Tokens
+🔤 6,325,956 Input Tokens, 496,383 Output Tokens
 
-💵 $102.49 Estimated AI Cost This Week
+💵 $91.58 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 131 AI Prompts
+🧠 12 AI Sessions, 101 AI Prompts
 
-Opus                     6,939 lines         █████████████████████████   100.00 % 
+Opus                     6,688 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.37% of written lines came from AI
-📄 Detailed Prompter — average 1,315 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 1.27% of changed lines were hand-edited
+🤖 AI-Driven — 99.4% of written lines came from AI
+📄 Detailed Prompter — average 1,340 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -228,7 +227,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/beto-mn/beto-mn/master/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 05:22:24 UTC
+ Last Updated on 11/10/2026 05:11:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
